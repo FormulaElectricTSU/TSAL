@@ -1861,8 +1861,8 @@ download the executable.-->
 		<WIRE a='55.99588,95.00000' b='56.99588,97.00000'/>
 		<WIRE a='55.99588,95.00000' b='54.99588,97.00000'/>
 		<SYMBOL id='1' pos='58.00000,109.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
-			<FIELD type='0' description='Ref' value='R7' show='1' pos='0.00000,-8.60000'/>
-			<FIELD type='0' description='Name' value='75 кОм' show='1' pos='0.00000,-6.00000'/>
+			<FIELD type='0' description='Ref' value='R7' show='1' pos='0.00000,-5.60000'/>
+			<FIELD type='0' description='Name' value='75 кОм' show='1' pos='0.00000,-3.00000'/>
 			<HINT pin='1' net='7'/>
 			<HINT pin='2' net='8'/>
 		</SYMBOL>
